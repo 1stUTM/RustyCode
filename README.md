@@ -14,6 +14,10 @@ RustyCode is a lightweight, fast, and cross-platform code editor written in Rust
 
 Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed on your system.
 
+launch RustyCode.exe
+
+or
+
 ```bash
 # Run the editor
 cargo run --release
